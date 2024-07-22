@@ -12,4 +12,16 @@ Busco seguir aprendiendo y poner mi conocimiento y habilidades al servicio de la
 - HTML
 - CSS
 - JS
-###### # Team 18 - EGG
+
+## Skills
+
+- Proactivo
+- Extrovertido
+- Divertido
+- Comunicativo
+- Adaptable
+- Creativo
+- Colaborativo
+- Trabajo en equipo
+- Coaching
+
