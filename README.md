@@ -6,7 +6,7 @@ Soy ingenerio de sistemas, actualmente trabajo como QC/QA y estudio en EGG
 
 ## Contact me
 
-Busco seguir aprendiendo y poner al servicio mi conocimiento y habilidades al servicio de la sociedad. Seguir creciendo profesionalmente y personalmente es mi objetivo.¡Contactate y hagamos juntos algo novedoso y asombroso!
+Busco seguir aprendiendo y poner mi conocimiento y habilidades al servicio de la sociedad. Seguir creciendo profesionalmente y personalmente es mi objetivo.¡Contactate y hagamos juntos algo novedoso y asombroso!
 
 ## Hobbies
 - Fútbol
@@ -14,3 +14,10 @@ Busco seguir aprendiendo y poner al servicio mi conocimiento y habilidades al se
 - Voley
 - Viajar
 - Play Station 5 - Fútbol
+###### # Team 17 - EGG
+
+
+## Languages
+
+- English
+- Spanish
