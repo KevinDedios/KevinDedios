@@ -25,3 +25,10 @@ Busco seguir aprendiendo y poner mi conocimiento y habilidades al servicio de la
 - Trabajo en equipo
 - Coaching
 
+## Hobbies
+- Fútbol
+- Basketball
+- Voley
+- Viajar
+- Play Station 5 - Fútbol
+=======
